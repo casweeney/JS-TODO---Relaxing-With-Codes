@@ -1,3 +1,3 @@
 ## JS-TODO---Relaxing-With-Codes (Slogan: Never get bored)
-So I was just trying to cool off from the whole EndSARS protest that happened lately, and decided to just play around with this basic JS Todo App.
+So I was just trying to cool off from the whole EndSARS protest that happened lately, and decided to play around with this basic JS Todo App.
 I might make it better if time permits.
